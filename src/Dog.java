@@ -27,4 +27,8 @@ public class Dog {
     static void login1(){
         System.out.println("login1");
     }
+
+    static void login2(){
+        System.out.println("login2");
+    }
 }

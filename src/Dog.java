@@ -18,9 +18,13 @@ public class Dog {
     static void login(){
         System.out.println("login");
     }
-    
+
         static void test2(){
         System.out.println("test22");
         System.out.println("test11");
+    }
+
+    static void login1(){
+        System.out.println("login1");
     }
 }
